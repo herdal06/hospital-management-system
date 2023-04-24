@@ -1,0 +1,42 @@
+{
+"success": true,
+"message": "Specialities listed",
+"data": [
+{
+"specialityId": 1,
+"specialityName": "Kardiyoloji"
+},
+{
+"specialityId": 2,
+"specialityName": "Enfeksiyon Hastalıkları"
+},
+{
+"specialityId": 3,
+"specialityName": "Çocuk Sağlığı"
+},
+{
+"specialityId": 4,
+"specialityName": "Fizyoloji"
+},
+{
+"specialityId": 5,
+"specialityName": "Histoloji"
+},
+{
+"specialityId": 6,
+"specialityName": "Aile hekimliği"
+},
+{
+"specialityId": 7,
+"specialityName": "Adli tıp"
+},
+{
+"specialityId": 8,
+"specialityName": "Dermatoloji"
+},
+{
+"specialityId": 9,
+"specialityName": "Dahiliye"
+}
+]
+}
